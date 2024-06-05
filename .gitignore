@@ -1,0 +1,10 @@
+*.log
+*.out
+*.txt
+*.sh
+*.ipynb
+HRSEVIRI*/
+
+
+__pycache__/
+.ipynb_checkpoints/
